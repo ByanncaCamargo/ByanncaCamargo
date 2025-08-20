@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá! Eu sou a Byannca 
 
-<!--
-**ByanncaCamargo/ByanncaCamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Ciência da Computação**  
+⚙️ Focado em **Desenvolvimento Web** e caminho para o **Back-End**  
+🚀 Gosto de construir projetos simples, organizados e evoluir de forma consistente
 
-Here are some ideas to get you started:
+## 🔧 Tecnologias que estou aprendendo
+- **HTML5**, **CSS3**, **JavaScript**
+- **Git & GitHub**
+- **MySQL** (base)
+- Conceitos de **APIs** e **arquitetura** (em progresso)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projetos em Destaque
+- [Catálogo (HTML/CSS)](https://github.com/ByanncaCamargo/catalogo) — página simples com cards (layout responsivo)
+- (em breve) **API CRUD** — rota para usuários (planejamento)
+
+## 🎯 Objetivos
+- Consolidar HTML/CSS/JS  
+- Iniciar back-end (APIs, banco de dados)  
+- Publicar projetos regularmente
+
+## 🌐 Contato
+-  https://linkedin.com/in/ByanncaCamargo
+- Email: byanncacamargo@gmail.com
