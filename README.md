@@ -11,7 +11,7 @@
 - Conceitos de **APIs** e **arquitetura** (em progresso)
 
 ## 📂 Projetos em Destaque
-- [Catálogo (HTML/CSS)](https://github.com/ByanncaCamargo/catalogo) — página simples com cards (layout responsivo)
+- [Catálogo (HTML/CSS)](https://byanncacamargo.github.io/catalogo/) — página simples com cards (layout responsivo)
 - (em breve) **API CRUD** — rota para usuários (planejamento)
 
 ## 🎯 Objetivos
