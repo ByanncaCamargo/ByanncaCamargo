@@ -20,5 +20,6 @@
 - Publicar projetos regularmente
 
 ## 🌐 Contato
--  https://linkedin.com/in/ByanncaCamargo
+- https://www.linkedin.com/in/byannca-camargo-22457737b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 - Email: byanncacamargo@gmail.com
